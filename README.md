@@ -25,7 +25,7 @@ In addition to these technical skills, the following soft skills will significan
 
 You have received a take-home coding assessment for a Web Developer position as part of the hiring process. Your task is to complete a game using only JavaScript.
 
-You can find a [fully-functional mock](https://bloominstituteoftechnology.github.io/W_U2_S5M2_module_project/) showing the desired end result.
+You can find a [fully-functional mock](https://bloomin stituteoftechnology.github.io/W_U2_S5M2_module_project/) showing the desired end result.
 
 Good luck!
 
